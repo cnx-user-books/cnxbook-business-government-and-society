@@ -1,0 +1,361 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col10560</md:content-id>
+  <md:title>Business, Government, and Society</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:uuid>05c97be4-3ad0-47f2-b5a7-a75d0ad90ab7</md:uuid>
+<md:slug>business-government-and-society</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Ethical Issues in Business Research</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68424">
+        <col:featured-links>
+          
+            <cnxml:link-group type="example">
+              <cnxml:link url="https://legacy.cnx.org/content/m45376/latest/">Connexions Module On Justice</cnxml:link>
+              <cnxml:link url="https://legacy.cnx.org/content/m31972/latest/">Ethical Issues in Graduate Research</cnxml:link>
+              <cnxml:link url="https://legacy.cnx.org/content/m14400/latest/">Graduate Awareness Workshop</cnxml:link>
+              <cnxml:link url="https://legacy.cnx.org/content/m14406/latest/">Moral Deliberation Workshop</cnxml:link>
+              <cnxml:link url="https://legacy.cnx.org/content/m14411/latest/">Case Analysis Workshop</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m68447"/>
+        
+      
+    
+    
+      <col:module document="m68635"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Ethical Frameworks in Business</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m14256">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://www.pbs.org/newshour/bb/social_issues/july-dec06/gates_12-20.html">Bill Gates</cnxml:link>
+              <cnxml:link url="http://www.pbs.org/newshour/bb/business/july-dec06/yunus_11-22.html">Muhammad Yunus</cnxml:link>
+              <cnxml:link url="http://www.pbs.org/wgbh/pages/frontline/shows/blackout/interviews/skilling.html">Jeffrey Skilling</cnxml:link>
+              <cnxml:link url="http://www.stolaf.edu/people/huff/misc/LHL.2007.ppt">Presentation on Moral Exemplar Study in Computing</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://www.onlineethics.org/cms/8888.aspx">William LeMesseur</cnxml:link>
+              <cnxml:link url="http://www.onlineethics.org/cms/7596.aspx">Fred Cuny</cnxml:link>
+              <cnxml:link url="http://www.onlineethics.org/cms/7123.aspx ">Roger Boisjoly</cnxml:link>
+              <cnxml:link url="http://www.onlineethics.org/cms/9147.aspx">Rachael Carson</cnxml:link>
+              <cnxml:link url="http://www.onlineethics.org/cms/9090.aspx">Inez Austin</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m13755">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://ethics.sandiego.edu/theories/Aristotle/index.asp">Background Information on Virtue Ethics</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m46865"/>
+        
+      
+    
+    
+      <col:module document="m46866"/>
+        
+      
+    
+    
+      <col:module document="m47211">
+        <col:featured-links>
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://cnx.org/content/m14319/latest/">Llink to SOV Challenge</cnxml:link>
+              <cnxml:link url="http://business.uprm.edu/values-en.html">Statement of Values: English Version</cnxml:link>
+              <cnxml:link url="http://business.uprm.edu/values-es.html">Statement of Values: </cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m44683"/>
+        
+      
+    
+    
+      <col:module document="m45376"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Moral Emotions and their Supporting Theories</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m14025"/>
+        
+      
+    
+    
+      <col:module document="m81959"/>
+        
+      
+    
+    
+      <col:module document="m65942"/>
+        
+      
+    
+    
+      <col:module document="m66311"/>
+        
+      
+    
+    
+      <col:module document="m70765"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>CSR (Corporate Social Responsibility)</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m17314">
+        <col:featured-links>
+          
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Change / update this link</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://www.elt-inc.com/solutions/ethics_code_of_conduct/ethics_code_of_conduct_faq.html">Ethics and Codes of Conduct (ELT)</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m17318">
+        <col:featured-links>
+          
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Change / update this link</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m17353">
+        <col:featured-links>
+          
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Change / update this link</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m17367">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://www.pbs.org/newshour/bb/law/july-dec06/hp_09-22.html">Hewlett-Packard Chairwoman Resigns Amid Investigation Scandal</cnxml:link>
+              <cnxml:link url="http://computingcases.org/case_materials/hughes/hughes_case_intro.html">Information on the Hughes Aircraft Case from Computing Cases</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m14319/latest/">Developing a Statement of Values</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m13849/latest/">Pirate Code of Ethics (Stakeholder Codes)</cnxml:link>
+              <cnxml:link url="http://www.ethics.org">Ethics Resource Center (CECO Role)</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m14319">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://www.iit.edu/departments/csep/codes/coe.html">CSEP Code of Ethics Project</cnxml:link>
+              <cnxml:link url="http://www.baxter.com/about_baxter/doing_business_with_baxter/global_business_practice_standards/ethics_and_compliance.html">Baxter's Procedures and Standards of Conduct</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://cms.ciapr2.org/images/stories/Leyes/CANONES_DE_ETICA_-_REV__08-08-09.pdf">CIAPR Code of Ethics</cnxml:link>
+              <cnxml:link url="http://www.nspe.org/ethics/index.html">NSPE Code of Ethics for Engineers</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m13760/latest/">Ethics of Team Work</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m17353/latest/">Moral Ecologies in Corporate Governance</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="prerequisite">
+              <cnxml:link url="http://www.business.uprm.edu/values-es.html">UPRM ADEM Statement of Values</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m13849/latest/">Pirate Code of Ethics Module</cnxml:link>
+              <cnxml:link url="http://libnet.colorado.edu/Bell/">Business Ethics Link Library (Univ. of Colorado, Leeds)</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m21191/latest/">Ethics Bowl for Environments of the Organization</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Environmental and Social Justice</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m15991">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://www.computingcases.org/">Computing Cases</cnxml:link>
+              <cnxml:link url="http://www.onlineethics.diamax.com/CMS/computers/compcases.aspx">Computer Cases from Online Ethics</cnxml:link>
+              <cnxml:link url="http://www.onlineethics.diamax.com/CMS/research/rescases.aspx">Research Ethics Cases from Online Ethics</cnxml:link>
+              <cnxml:link url="http://www.uprm.edu/etica/">Orphan Cases from UPRM</cnxml:link>
+              <cnxml:link url="http://www.murdough.ttu.edu/pdd.cfm?pt=NIEE&amp;doc=EthicsCases">NSPE BER Cases</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m15187/latest/">Biomatrix Case</cnxml:link>
+              <cnxml:link url="http://cnx.org/content/m14789/latest/">Toysmart Case</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m32584">
+        <col:featured-links>
+          
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://media.shipspotting.com/uploads/photos/rw/841000/Ship+Photo+ZOE+COLOCOTRONI.jpg">Photo of the Zoe Colocotroni</cnxml:link>
+            </cnxml:link-group>
+          
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://ethics.sandiego.edu/">Ethics Update: Environmental Ethics</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Midterm Exam</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m47798"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>
